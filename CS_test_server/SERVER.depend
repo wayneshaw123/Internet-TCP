@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1522921267 source:d:\学习文件\communication lab\cs_test_server\cs_tcp.c
+	<stdio.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<time.h>
+	"CS_TCP.h"
+
+1522921277 d:\学习文件\communication lab\cs_test_server\cs_tcp.h
+
+1525117439 source:d:\学习文件\communication lab\cs_test_server\server.c
+	<stdio.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	"CS_TCP.h"
+	<time.h>
+

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1524131432 source:c:\users\lab\documents\c-programs\cs_thrusday_tcp\client.c
+	<stdio.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	"CS_TCP.h"
+
+1522917677 c:\users\lab\documents\c-programs\cs_thrusday_tcp\cs_tcp.h
+
+1522917667 source:c:\users\lab\documents\c-programs\cs_thrusday_tcp\cs_tcp.c
+	<stdio.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<time.h>
+	"CS_TCP.h"
+
+1524135032 source:d:\学习文件\communication lab\cs_thrusday_tcp\client.c
+	<stdio.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	"CS_TCP.h"
+
+1522921277 d:\学习文件\communication lab\cs_thrusday_tcp\cs_tcp.h
+
+1522921267 source:d:\学习文件\communication lab\cs_thrusday_tcp\cs_tcp.c
+	<stdio.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<time.h>
+	"CS_TCP.h"
+
+1525118558 source:d:\学习文件\communication lab\cs_test_client\client.c
+	<stdio.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	"CS_TCP.h"
+
+1522921277 d:\学习文件\communication lab\cs_test_client\cs_tcp.h
+
+1522921267 source:d:\学习文件\communication lab\cs_test_client\cs_tcp.c
+	<stdio.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<time.h>
+	"CS_TCP.h"
+
